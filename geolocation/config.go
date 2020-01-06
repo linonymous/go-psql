@@ -18,8 +18,8 @@ func NewConfig() *Config {
 		Host:     "localhost",
 		Port:     "5432",
 		DBName:   "linonymous",
-		User:     "linonymous",
-		Password: "5fE5AAns",
-		SSLMode:  "enable",
+		User:     "",
+		Password: "",
+		SSLMode:  "",
 	}
 }
